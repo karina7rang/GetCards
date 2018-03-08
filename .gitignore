@@ -1,0 +1,6 @@
+# ingore senstive files
+config.py
+
+# ignore running/compiling files
+__pycache__/
+ML Cards/
